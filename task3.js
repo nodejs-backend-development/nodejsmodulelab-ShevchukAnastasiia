@@ -1,3 +1,5 @@
+//Завдання 6.
+
 const { Transform } = require('stream');
 
 class UppercaseStream extends Transform {
